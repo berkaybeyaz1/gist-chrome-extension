@@ -1,5 +1,5 @@
 # Gist Chrome Extension for Google Chrome
-This extension added a button the user pages :simple_smile:
+This extension added a button on the user pages :space_invader:
 
 ___
 
